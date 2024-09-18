@@ -1,7 +1,7 @@
 # Novo Baixador de vídeos do Youtube - YTubeDownloader
-<div style="text-align: center;">
-	<img src="https://i.ibb.co/YtHp246/wp9314737-4k-anime-temple-wallpapers.jpg" alt="YTubeDownloader img">
-</div>
+
+<img src="https://i.ibb.co/YtHp246/wp9314737-4k-anime-temple-wallpapers.jpg" alt="YTubeDownloader img">
+
 
 Esse projeto vem de uma antiga versão, agora dessa vez contém várias novas vantagens e funcionalidades
 - **Download simultâneo**
@@ -18,9 +18,7 @@ Ele foi feito para passar por cima de muitos sistemas semelhantes existentes com
 _Só por isso já vale o uso :3_
 
 ## Por que a criação desse remake?
-<div style="text-align: center;">
-	<img src="https://media1.tenor.com/m/JaJJkYeLc6oAAAAC/ok-anime.gif" alt="YTubeDownloader safe ok">
-</div>
+<img src="https://media1.tenor.com/m/JaJJkYeLc6oAAAAC/ok-anime.gif" alt="YTubeDownloader safe ok">
 
 A antiga versão continha vários bugs, seja nos argumentos ou no próprio mecanismo de download embutido, seu código também era complicado para realizar alterações, para isso foi decidido um novo desenvolvimento onde há a facilidade para qualquer um contribuir com o projeto, facilidade para manutenção e adições de novas features. No geral, o software atual é muito mais poderoso que o nosso antigo.
 
