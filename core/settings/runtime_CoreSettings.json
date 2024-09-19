@@ -1,0 +1,9 @@
+{
+	"files_need_exist": [],
+	"enable_logging": false,
+	"check_avaliable_netowrk": false,
+	"check_avaliable_storage": false,
+	"check_avaliable_ram": false,
+	"guest_mode": true,
+	"metadata_collect": "direct_mode"
+}
