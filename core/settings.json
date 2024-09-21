@@ -1,0 +1,10 @@
+{
+	"arguments": {
+		"ArgumentParser": {
+			"prog": "YTubeDownloader",
+			"description": "Você pode baixar músicas e vídeos de forma fácil e rápida com um simples clique. Aproveite a facilidade da nova versão refeita de nosso baixador, também visite nosso github <3",
+			"usage": "\n\tPython client.py <url> <-m [video ou audio]> <-pd local de download> <-r resolução> <-plst baixar uma playlist inteira a partir de um vídeo>n\n\nExemplos:\n\tPython client.py https://www.youtube.com/watch?v=8Flkc9Pj123 -m audio -pd /downloads\n\tPython client.py https://www.youtube.com/watch?v=8Flkc9Pj123 https://www.youtube.com/watch?v=2F11c9Pj123 -m video\n\tPython client.py https://www.youtube.com/watch?v=8Flkc9Pj123 -r 720 -plst \n\n\n",
+			"epilog": "Dev. Ninja | [ Marcos Henrique Albach ] | versão alpha v0.1.0"
+		}
+	}
+}
